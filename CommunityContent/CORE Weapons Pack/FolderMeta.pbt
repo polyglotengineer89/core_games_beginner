@@ -1,0 +1,299 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "ea023ecf902440f99f6ebf56e12d6acc"
+  OwnerAccountId: "400d8e7acb154e5bb64368411824b61d"
+  OwnerName: "Bigglebuns"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 22200907030415815
+  value: 11083204738753153537
+}
+AssetIdsOriginalToNew {
+  key: 307406115803496087
+  value: 5139366702808856385
+}
+AssetIdsOriginalToNew {
+  key: 470500858699588268
+  value: 8273862845118296143
+}
+AssetIdsOriginalToNew {
+  key: 513111611039465318
+  value: 9484651206296915580
+}
+AssetIdsOriginalToNew {
+  key: 928331646568598234
+  value: 4508668763393646974
+}
+AssetIdsOriginalToNew {
+  key: 1294353213784536522
+  value: 1275447987365087929
+}
+AssetIdsOriginalToNew {
+  key: 1347302138967115495
+  value: 536200968291114547
+}
+AssetIdsOriginalToNew {
+  key: 1569352808158863572
+  value: 14128691362600493814
+}
+AssetIdsOriginalToNew {
+  key: 1683114021203363022
+  value: 5135804408035427480
+}
+AssetIdsOriginalToNew {
+  key: 2327815121646361200
+  value: 10914857129417623933
+}
+AssetIdsOriginalToNew {
+  key: 2472577150731722024
+  value: 14811534902176821639
+}
+AssetIdsOriginalToNew {
+  key: 2689436114153681319
+  value: 7302855086893448045
+}
+AssetIdsOriginalToNew {
+  key: 3012054344727477603
+  value: 15974691302182990229
+}
+AssetIdsOriginalToNew {
+  key: 3655908705266261425
+  value: 14656031525423797675
+}
+AssetIdsOriginalToNew {
+  key: 4064463203247166324
+  value: 913705996604529344
+}
+AssetIdsOriginalToNew {
+  key: 4090458204208098356
+  value: 16159505584870114287
+}
+AssetIdsOriginalToNew {
+  key: 4269916104710543842
+  value: 1256708146827865486
+}
+AssetIdsOriginalToNew {
+  key: 4335055493883734012
+  value: 2689127545925060813
+}
+AssetIdsOriginalToNew {
+  key: 4714073306690230883
+  value: 6998838854278559980
+}
+AssetIdsOriginalToNew {
+  key: 5010412349980258932
+  value: 14024967500899057477
+}
+AssetIdsOriginalToNew {
+  key: 5900853629837661249
+  value: 12111605147339860682
+}
+AssetIdsOriginalToNew {
+  key: 5986982539638859883
+  value: 8340204936120232902
+}
+AssetIdsOriginalToNew {
+  key: 6207169131607382085
+  value: 6108258269426679523
+}
+AssetIdsOriginalToNew {
+  key: 6252017243707915483
+  value: 15187441285821527688
+}
+AssetIdsOriginalToNew {
+  key: 6652974207271369531
+  value: 4964078516996608947
+}
+AssetIdsOriginalToNew {
+  key: 6795206535065158887
+  value: 16617162266233575391
+}
+AssetIdsOriginalToNew {
+  key: 7560597166793505463
+  value: 16623543952263565185
+}
+AssetIdsOriginalToNew {
+  key: 7611242078719564322
+  value: 3226988297929791559
+}
+AssetIdsOriginalToNew {
+  key: 8050375883640065646
+  value: 6343298619834218518
+}
+AssetIdsOriginalToNew {
+  key: 8163343952479535019
+  value: 8027879303474284069
+}
+AssetIdsOriginalToNew {
+  key: 8544973748730250786
+  value: 13546824020165656701
+}
+AssetIdsOriginalToNew {
+  key: 8688477279662119454
+  value: 9310491459948874844
+}
+AssetIdsOriginalToNew {
+  key: 8902811847695685398
+  value: 14142651993756559039
+}
+AssetIdsOriginalToNew {
+  key: 9016533710710464908
+  value: 16635325421095674215
+}
+AssetIdsOriginalToNew {
+  key: 9023864673320310867
+  value: 5343023426733846854
+}
+AssetIdsOriginalToNew {
+  key: 9654009968499969690
+  value: 15819283337034934027
+}
+AssetIdsOriginalToNew {
+  key: 10139659402558168400
+  value: 8481225497527559142
+}
+AssetIdsOriginalToNew {
+  key: 10561339975877272150
+  value: 2889333149037353118
+}
+AssetIdsOriginalToNew {
+  key: 10567197058210724102
+  value: 12700198963958599556
+}
+AssetIdsOriginalToNew {
+  key: 10821846381899789695
+  value: 5551421675843221878
+}
+AssetIdsOriginalToNew {
+  key: 10948153152124094650
+  value: 16589280477535496547
+}
+AssetIdsOriginalToNew {
+  key: 11045840762057234617
+  value: 12874308440688933616
+}
+AssetIdsOriginalToNew {
+  key: 12107734285812188601
+  value: 3585936543895548859
+}
+AssetIdsOriginalToNew {
+  key: 12126222304681176074
+  value: 6897362193856572937
+}
+AssetIdsOriginalToNew {
+  key: 12210489528647249200
+  value: 8087261634682350722
+}
+AssetIdsOriginalToNew {
+  key: 13511250510657008800
+  value: 2467193341396688691
+}
+AssetIdsOriginalToNew {
+  key: 13807359458298376907
+  value: 9647977642133354567
+}
+AssetIdsOriginalToNew {
+  key: 13908810756540663999
+  value: 5115681001425080135
+}
+AssetIdsOriginalToNew {
+  key: 14147161957281691847
+  value: 16821261011499355357
+}
+AssetIdsOriginalToNew {
+  key: 14609911552871754312
+  value: 14392438762267706300
+}
+AssetIdsOriginalToNew {
+  key: 14699126022621410800
+  value: 7746152700344053216
+}
+AssetIdsOriginalToNew {
+  key: 14835507990971905635
+  value: 18308693473480156273
+}
+AssetIdsOriginalToNew {
+  key: 15378172471446673872
+  value: 6801354678134618204
+}
+AssetIdsOriginalToNew {
+  key: 15424999798908273010
+  value: 18346271953332843356
+}
+AssetIdsOriginalToNew {
+  key: 15515637826283224864
+  value: 25097225020082969
+}
+AssetIdsOriginalToNew {
+  key: 15674427580155193892
+  value: 8566888201529736197
+}
+AssetIdsOriginalToNew {
+  key: 15728676179772725900
+  value: 16209628971781860224
+}
+AssetIdsOriginalToNew {
+  key: 16060106056050307405
+  value: 13674874399929865379
+}
+AssetIdsOriginalToNew {
+  key: 16118667818826686655
+  value: 18060481268439791942
+}
+AssetIdsOriginalToNew {
+  key: 16152866228075133296
+  value: 16557016599460515801
+}
+AssetIdsOriginalToNew {
+  key: 16313312156352177803
+  value: 211156994344974173
+}
+AssetIdsOriginalToNew {
+  key: 16529519545048550732
+  value: 3550417429288141116
+}
+AssetIdsOriginalToNew {
+  key: 16800266995259553673
+  value: 4259727004808582090
+}
+AssetIdsOriginalToNew {
+  key: 16975801195317677333
+  value: 12636169450033496893
+}
+AssetIdsOriginalToNew {
+  key: 17017433431252953491
+  value: 15902550404363630004
+}
+AssetIdsOriginalToNew {
+  key: 17103588375713329285
+  value: 1063075932833952892
+}
+AssetIdsOriginalToNew {
+  key: 17130416591282711482
+  value: 1834567958736959567
+}
+AssetIdsOriginalToNew {
+  key: 17169051963161242240
+  value: 13205125621673612973
+}
+AssetIdsOriginalToNew {
+  key: 17232470188573089324
+  value: 9900346448790129905
+}
+AssetIdsOriginalToNew {
+  key: 17885187847444210561
+  value: 4735753454162303804
+}
+AssetIdsOriginalToNew {
+  key: 17984400221737700491
+  value: 7869359011696593841
+}
+AssetIdsOriginalToNew {
+  key: 18000909433877488851
+  value: 14181875015709387313
+}
+AssetIdsOriginalToNew {
+  key: 18403044146386498216
+  value: 9388202969726776662
+}

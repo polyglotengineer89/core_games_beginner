@@ -1,0 +1,59 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "c2e27beafa964aba80a24d6e4f9f0581"
+  OwnerAccountId: "d4c1b5667279480c8f1813e6565d426b"
+  OwnerName: "Zeus"
+  Version: "1.1.0"
+}
+AssetIdsOriginalToNew {
+  key: 823006067642930093
+  value: 10493610178443838966
+}
+AssetIdsOriginalToNew {
+  key: 2639216665337053057
+  value: 10938672572768886721
+}
+AssetIdsOriginalToNew {
+  key: 4364205226556463642
+  value: 3981866465694893915
+}
+AssetIdsOriginalToNew {
+  key: 7589733965509968265
+  value: 6695855853709400656
+}
+AssetIdsOriginalToNew {
+  key: 7726589920283904325
+  value: 14822272153850547166
+}
+AssetIdsOriginalToNew {
+  key: 8659914518311995093
+  value: 13765066332306633561
+}
+AssetIdsOriginalToNew {
+  key: 11887207572598871423
+  value: 5579928047081822188
+}
+AssetIdsOriginalToNew {
+  key: 11966604346925530192
+  value: 8137524191122817714
+}
+AssetIdsOriginalToNew {
+  key: 12725316353501139134
+  value: 14317324503521865471
+}
+AssetIdsOriginalToNew {
+  key: 13944236748483693543
+  value: 2540344444333740495
+}
+AssetIdsOriginalToNew {
+  key: 14059078594897721146
+  value: 15491375512053126978
+}
+AssetIdsOriginalToNew {
+  key: 14428307037153004899
+  value: 11406726867550301653
+}
+AssetIdsOriginalToNew {
+  key: 15461615484321889018
+  value: 1767690010031638230
+}

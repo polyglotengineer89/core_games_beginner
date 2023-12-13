@@ -1,0 +1,83 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "062f1e5e6783496eb6a6a9cd5f820f4f"
+  OwnerAccountId: "901b7628983c4c8db4282f24afeda57a"
+  OwnerName: "Buckmonster"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 233005997718683471
+  value: 17982156761358258029
+}
+AssetIdsOriginalToNew {
+  key: 724817055203424261
+  value: 12952291322218739641
+}
+AssetIdsOriginalToNew {
+  key: 869509735942887711
+  value: 14150502338817908067
+}
+AssetIdsOriginalToNew {
+  key: 2828450088529428090
+  value: 16668283845121235481
+}
+AssetIdsOriginalToNew {
+  key: 3205729926934384578
+  value: 553015987606941100
+}
+AssetIdsOriginalToNew {
+  key: 3948299765790116881
+  value: 12545085889757435807
+}
+AssetIdsOriginalToNew {
+  key: 5285434925058290061
+  value: 16127925585655802177
+}
+AssetIdsOriginalToNew {
+  key: 6011115898900746641
+  value: 16739946160268305564
+}
+AssetIdsOriginalToNew {
+  key: 8243091532112792906
+  value: 14406331805764579177
+}
+AssetIdsOriginalToNew {
+  key: 8497073598926878533
+  value: 117429856200065658
+}
+AssetIdsOriginalToNew {
+  key: 9886948293501370791
+  value: 14759042127941565149
+}
+AssetIdsOriginalToNew {
+  key: 12125623149837945575
+  value: 17990324716033914331
+}
+AssetIdsOriginalToNew {
+  key: 12818404807705500121
+  value: 9968964221721416630
+}
+AssetIdsOriginalToNew {
+  key: 14702985260486804299
+  value: 2321488884368315242
+}
+AssetIdsOriginalToNew {
+  key: 15326666371037983341
+  value: 7989598915071212461
+}
+AssetIdsOriginalToNew {
+  key: 16408102099712389349
+  value: 3759098253845673072
+}
+AssetIdsOriginalToNew {
+  key: 16459655367358488892
+  value: 8439663666198117831
+}
+AssetIdsOriginalToNew {
+  key: 17097284756549472659
+  value: 11006887227456656339
+}
+AssetIdsOriginalToNew {
+  key: 17455535032025933445
+  value: 16159326190018693006
+}

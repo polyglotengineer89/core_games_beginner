@@ -1,0 +1,83 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "3894987ba3cd4b848dbc12320d276c6b"
+  OwnerAccountId: "21c0b4284eff4bb091ce80a75c984fd4"
+  OwnerName: "varglbargl"
+  Version: "1.19.0"
+}
+AssetIdsOriginalToNew {
+  key: 2316788325777344864
+  value: 1192928016283930050
+}
+AssetIdsOriginalToNew {
+  key: 4261603769239236331
+  value: 6718625011033434975
+}
+AssetIdsOriginalToNew {
+  key: 4433451973267974387
+  value: 6201780871720616419
+}
+AssetIdsOriginalToNew {
+  key: 4758446775763149287
+  value: 5569123419385959250
+}
+AssetIdsOriginalToNew {
+  key: 5024910963244637900
+  value: 11623465468819346813
+}
+AssetIdsOriginalToNew {
+  key: 5358125184516124331
+  value: 13156703377141442499
+}
+AssetIdsOriginalToNew {
+  key: 6111135488760701878
+  value: 18314201513831124553
+}
+AssetIdsOriginalToNew {
+  key: 7121985532625554646
+  value: 1961019090229961724
+}
+AssetIdsOriginalToNew {
+  key: 7202748079351827853
+  value: 4753731974693638664
+}
+AssetIdsOriginalToNew {
+  key: 7710056445333053475
+  value: 18050016985211861206
+}
+AssetIdsOriginalToNew {
+  key: 9114248915753742840
+  value: 14509781767847009897
+}
+AssetIdsOriginalToNew {
+  key: 9463019686170667698
+  value: 8762219492113436316
+}
+AssetIdsOriginalToNew {
+  key: 9818153315452446927
+  value: 10487576953394120737
+}
+AssetIdsOriginalToNew {
+  key: 10482398436221755023
+  value: 2557327098175855917
+}
+AssetIdsOriginalToNew {
+  key: 11030145533174618076
+  value: 8530009285206908765
+}
+AssetIdsOriginalToNew {
+  key: 16305374634543853944
+  value: 292824798317069411
+}
+AssetIdsOriginalToNew {
+  key: 16449045394568394977
+  value: 6391278320265228721
+}
+AssetIdsOriginalToNew {
+  key: 16525681096418896287
+  value: 738700497115832739
+}
+AssetIdsOriginalToNew {
+  key: 16942072427917773766
+  value: 4977852030452824693
+}
