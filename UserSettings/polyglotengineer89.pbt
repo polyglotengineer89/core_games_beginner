@@ -661,7 +661,7 @@ ObjectSettings {
     }
   }
 }
-LastSavedScene: "Testing Trigger"
+LastSavedScene: "Assets"
 PreviewDetailLevelPerScene {
   key: "Testing Trigger"
   value: 2
